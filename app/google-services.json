@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045581830275",
+    "firebase_url": "https://gimtliblogin.firebaseio.com",
+    "project_id": "gimtliblogin",
+    "storage_bucket": "gimtliblogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045581830275:android:1ba99ade3e50fdea",
+        "android_client_info": {
+          "package_name": "com.example.gimtliblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045581830275-24bbqkoljtjmaruhhquaeea782ndlmef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gimtliblogin",
+            "certificate_hash": "e535d2babc14686ae201b5fff165a692119932a6"
+          }
+        },
+        {
+          "client_id": "1045581830275-qcorfb6cu36gip36oc6u3vpvjg6pa74f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAfphvpCpAY7LttDQUwrcy6xPFeFDlG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045581830275-qcorfb6cu36gip36oc6u3vpvjg6pa74f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

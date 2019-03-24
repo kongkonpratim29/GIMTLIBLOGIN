@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GIMT LIB LOGIN</string>
+    <string name="send_otp">Send OTP</string>
+</resources>
